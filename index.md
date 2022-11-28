@@ -9,3 +9,6 @@ int main(){
   return 0;
 }
 ```
+- [ ] Become a code wizard
+- [ ] Build an awesome portfolio
+- [ ] Become a contributing member of society
